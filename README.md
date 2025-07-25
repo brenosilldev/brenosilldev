@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brenosilldev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="brenosill@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,11 +46,24 @@ Sou apaixonado por tecnologia e inovação! Atuo como **Desenvolvedor Full Stack
 
 ---
 
-## 📈 Estatísticas GitHub
+## 🚀 Projetos Relevantes
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenosilldev&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenosilldev&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <a href="https://github.com/brenosilldev/nome-do-projeto1" target="_blank"><img src="https://img.shields.io/badge/Projeto%201-Next.js%20%7C%20Prisma%20%7C%20TypeScript-blue?style=for-the-badge"/></a>
+  <br/>
+  <b>Projeto 1</b>: Breve descrição do projeto, tecnologias utilizadas e objetivo principal.
+</p>
+
+<p align="center">
+  <a href="https://github.com/brenosilldev/nome-do-projeto2" target="_blank"><img src="https://img.shields.io/badge/Projeto%202-React%20%7C%20Node.js%20%7C%20Express-green?style=for-the-badge"/></a>
+  <br/>
+  <b>Projeto 2</b>: Breve descrição do projeto, tecnologias utilizadas e objetivo principal.
+</p>
+
+<p align="center">
+  <a href="https://github.com/brenosilldev/nome-do-projeto3" target="_blank"><img src="https://img.shields.io/badge/Projeto%203-Python%20%7C%20Golang-yellow?style=for-the-badge"/></a>
+  <br/>
+  <b>Projeto 3</b>: Breve descrição do projeto, tecnologias utilizadas e objetivo principal.
 </p>
 
 ---
