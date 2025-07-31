@@ -49,7 +49,7 @@ Sou apaixonado por tecnologia e inovação! Atuo como **Desenvolvedor Full Stack
 ## 🚀 Projetos Relevantes
 
 <p align="center">
-  <a href="https://github.com/brenosilldev/chatapp-2" target="_blank"><img src="https://img.shields.io/badge/Projeto%201-Next.js%20%7C%20Prisma%20%7C%20TypeScript-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/brenosilldev/chatapp-2" target="_blank"><img src="https://img.shields.io/badge/Projeto%201-MongoDB%20%7C%20Express%20%7C%20-blue?style=for-the-badge"/></a>
   <br/>
   <b>Projeto 1</b>: ChatApp em tempo real.
 </p>
