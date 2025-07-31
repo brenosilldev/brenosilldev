@@ -49,12 +49,12 @@ Sou apaixonado por tecnologia e inovação! Atuo como **Desenvolvedor Full Stack
 ## 🚀 Projetos Relevantes
 
 <p align="center">
-  <a href="https://github.com/brenosilldev/nome-do-projeto1" target="_blank"><img src="https://img.shields.io/badge/Projeto%201-Next.js%20%7C%20Prisma%20%7C%20TypeScript-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/brenosilldev/chatapp-2" target="_blank"><img src="https://img.shields.io/badge/Projeto%201-Next.js%20%7C%20Prisma%20%7C%20TypeScript-blue?style=for-the-badge"/></a>
   <br/>
-  <b>Projeto 1</b>: Breve descrição do projeto, tecnologias utilizadas e objetivo principal.
+  <b>Projeto 1</b>: ChatApp em tempo real.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/brenosilldev/nome-do-projeto2" target="_blank"><img src="https://img.shields.io/badge/Projeto%202-React%20%7C%20Node.js%20%7C%20Express-green?style=for-the-badge"/></a>
   <br/>
   <b>Projeto 2</b>: Breve descrição do projeto, tecnologias utilizadas e objetivo principal.
@@ -64,7 +64,7 @@ Sou apaixonado por tecnologia e inovação! Atuo como **Desenvolvedor Full Stack
   <a href="https://github.com/brenosilldev/nome-do-projeto3" target="_blank"><img src="https://img.shields.io/badge/Projeto%203-Python%20%7C%20Golang-yellow?style=for-the-badge"/></a>
   <br/>
   <b>Projeto 3</b>: Breve descrição do projeto, tecnologias utilizadas e objetivo principal.
-</p>
+</p> -->
 
 ---
 
