@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | React | Node.js | Next.js | TypeScript | Prisma | Python | Django | Golang</b>
+  <b>Desenvolvedor Full Stack | React | Node.js | Next.js | TypeScript | Prisma </b>
 </p>
 
 <p align="center">
@@ -30,8 +30,8 @@ Sou apaixonado por tecnologia e inovação! Atuo como **Desenvolvedor Full Stack
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> -->
 </p>
 
 ---
