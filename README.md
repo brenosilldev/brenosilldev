@@ -1,10 +1,6 @@
 # 👨‍💻 Breno Silva – Desenvolvedor Full Stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=28&fontAlign=50&fontColor=ffffff"/>
-</p>
-
-<p align="center">
   <b>Desenvolvedor Full Stack | React | Node.js | Next.js | TypeScript | Prisma </b>
 </p>
 
