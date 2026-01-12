@@ -13,7 +13,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Desenvolvedor Full Stack** com cerca de **2 anos de experiência prática**, atuando no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto. Trabalho com **React, Next.js, Node.js e NestJS**, desenvolvendo desde interfaces performáticas até **APIs robustas**, bem estruturadas e prontas para produção.
+Sou **Desenvolvedor Full Stack** com cerca de **3 anos de experiência prática**, atuando no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto. Trabalho com **React, Next.js, Node.js e NestJS**, desenvolvendo desde interfaces performáticas até **APIs robustas**, bem estruturadas e prontas para produção.
 
 Tenho foco em **SaaS, produtos digitais e sistemas B2B**, aplicando boas práticas de arquitetura, separação de responsabilidades, código limpo e foco em resolver problemas reais de negócio.
 
@@ -30,8 +30,8 @@ Tenho foco em **SaaS, produtos digitais e sistemas B2B**, aplicando boas prátic
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-**Banco de dados:** PostgreSQL, MySQL, MongoDB
-**Back-end:** NestJS, Express, JWT, APIs REST
+**Banco de dados:** PostgreSQL, MySQL, MongoDB <br>
+**Back-end:** NestJS, Express, JWT, APIs REST <br>
 **Outros:** Git, GitHub, Docker (ambiente de desenvolvimento)
 
 ---
