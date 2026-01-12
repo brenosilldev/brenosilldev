@@ -1,7 +1,7 @@
 # 👨‍💻 Breno Silva – Desenvolvedor Full Stack
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | React | Next.js | Node.js | NestJS | TypeScript </b>
+  <b>Desenvolvedor Full Stack | React | Next.js | Node.js | NestJS | TypeScript | Prisma</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Desenvolvedor Full Stack** com cerca de **3 anos de experiência prática**, atuando no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto. Trabalho com **React, Next.js, Node.js e NestJS**, desenvolvendo desde interfaces performáticas até **APIs robustas**, bem estruturadas e prontas para produção.
+Sou **Desenvolvedor Full Stack** com cerca de **2 anos de experiência prática**, atuando no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto. Trabalho com **React, Next.js, Node.js e NestJS**, desenvolvendo desde interfaces performáticas até **APIs robustas**, bem estruturadas e prontas para produção.
 
 Tenho foco em **SaaS, produtos digitais e sistemas B2B**, aplicando boas práticas de arquitetura, separação de responsabilidades, código limpo e foco em resolver problemas reais de negócio.
 
@@ -49,18 +49,65 @@ Tenho foco em **SaaS, produtos digitais e sistemas B2B**, aplicando boas prátic
 
 ## 🚀 Projetos Relevantes
 
-<p align="center">
-  <a href="https://github.com/brenosilldev/chatapp-2" target="_blank"><img src="https://img.shields.io/badge/Projeto%201-MongoDB%20%7C%20Express%20%7C%20React-blue?style=for-the-badge"/></a>
-  <br/>
-  <b>ChatApp</b>: Aplicação de chat em tempo real com foco em comunicação instantânea entre usuários.
-</p>
+### 🍽️ Sistema de Cardápio Online
 
-**Principais aprendizados:**
+Sistema de **cardápio digital** desenvolvido para restaurantes, focado em performance, usabilidade e gestão de pedidos.
 
-* Estruturação de back-end com Node.js e Express
-* Organização de APIs e regras de negócio
-* Integração entre front-end e back-end
-* Persistência de dados com MongoDB
+**Stack:**
+
+* Back-end: Node.js, Express, Prisma, MySQL, JWT
+* Front-end: React, Next.js, React Query
+* Integrações: Google Maps API
+
+**Principais funcionalidades:**
+
+* Cardápio online com localização de estabelecimentos
+* Cálculo automático de frete
+* Autenticação segura com JWT
+* Painel administrativo para gerenciamento de pedidos
+* Plataforma responsiva e de fácil manutenção
+
+---
+
+### 🚀 PastelTop – Sistema de Gestão para Food Service
+
+Sistema completo para **gestão de barracas e produção de pastéis**, com foco em controle operacional, segurança e escalabilidade.
+
+**Stack:**
+
+* Back-end: Node.js, TypeScript, Express, Prisma, MySQL
+* Front-end: Next.js 15, React 18, TypeScript, Tailwind CSS, shadcn/ui
+* Estado e dados: React Query
+
+**Funcionalidades principais:**
+
+* PDV (Ponto de Venda) completo
+* Controle de produção com geração de PDFs
+* Gestão de pedidos, produtos, usuários e barracas
+* Arquitetura multi-empresa com isolamento de dados
+* Sistema de permissões granulares e auditoria completa
+
+**Destaques técnicos:**
+
+* Arquitetura MVC com Service Layer
+* Type Safety completo com TypeScript
+* Código limpo, escalável e performático
+* Paginação, cache e boas práticas de segurança
+
+---
+
+### 🎟️ Sistema de Venda de Ingressos
+
+Atuação no desenvolvimento de um **sistema de venda de ingressos**, com foco em integração de APIs, pagamentos e experiência do usuário.
+
+**Responsabilidades:**
+
+* Integração completa com APIs REST desenvolvidas em PHP puro
+* Implementação das telas conforme design fornecido
+* Integração de pagamentos
+* Fluxo de liberação e disponibilização de ingressos após a compra
+
+**Tecnologias:** PHP, JavaScript, jQuery, APIs REST
 
 ---
 
