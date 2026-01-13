@@ -1,4 +1,5 @@
-# 👨‍💻 Breno Silva – Desenvolvedor Full Stack
+# 👨‍💻 Breno Silva
+
 
 <p align="center">
   <b>Desenvolvedor Full Stack | React | Next.js | Node.js | NestJS | TypeScript | Prisma</b>
