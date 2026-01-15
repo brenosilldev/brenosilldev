@@ -22,15 +22,6 @@ Tenho foco em **SaaS, produtos digitais e sistemas B2B**, aplicando boas prátic
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</p>
-
 **Banco de dados:** PostgreSQL, MySQL, MongoDB <br>
 **Back-end:** NestJS, Express, JWT, APIs REST <br>
 **Outros:** Git, GitHub, Docker (ambiente de desenvolvimento)
