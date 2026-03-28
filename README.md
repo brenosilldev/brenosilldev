@@ -100,17 +100,6 @@ Atuação no desenvolvimento de um **sistema de venda de ingressos**, com foco e
 * Fluxo de liberação e disponibilização de ingressos após a compra
 
 **Tecnologias:** PHP, JavaScript, jQuery, APIs REST
-
----
-
-## 📈 Em evolução
-
-* Arquitetura avançada com NestJS
-* Testes automatizados (unitários e integração)
-* Sistemas SaaS com autenticação e monetização
-* Pagamentos e billing
-* Integração de IA em aplicações web
-
 ---
 
 ## 📫 Vamos conversar?
