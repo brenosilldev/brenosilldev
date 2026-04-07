@@ -98,8 +98,7 @@ Atuação no desenvolvimento de um **sistema de venda de ingressos**, com foco e
 * Implementação das telas conforme design fornecido
 * Integração de pagamentos
 * Fluxo de liberação e disponibilização de ingressos após a compra
-
-**Tecnologias:** PHP, JavaScript, jQuery, APIs REST
+  Tecnologias:** PHP, JavaScript, jQuery, APIs REST
 ---
 
 ## 📫 Vamos conversar?
