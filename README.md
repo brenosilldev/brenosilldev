@@ -16,7 +16,7 @@
 
 Sou **Desenvolvedor Full Stack** com cerca de **3 anos de experiência prática**, atuando no desenvolvimento de aplicações web modernas, escaláveis e orientadas a produto. Trabalho com **React, Next.js, Node.js e NestJS**, desenvolvendo desde interfaces performáticas até **APIs robustas**, bem estruturadas e prontas para produção.
 
-Tenho foco em **SaaS, produtos digitais e sistemas B2B**, aplicando boas práticas de arquitetura, separação de responsabilidades, código limpo e foco em resolver problemas reais de negócio.
+Tenho foco em **Produtos digitais e sistemas B2B**, aplicando boas práticas de arquitetura, separação de responsabilidades, código limpo e foco em resolver problemas reais de negócio.
 
 ---
 
