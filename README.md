@@ -26,18 +26,7 @@ Tenho foco em **Produtos digitais e sistemas B2B**, aplicando boas práticas de 
 **Back-end:** NestJS, Express, JWT, APIs REST <br>
 **Outros:** Git, GitHub, Docker (ambiente de desenvolvimento)
 
----
 
-## 💡 O que eu entrego
-
-* Desenvolvimento de aplicações web completas (front-end e back-end)
-* APIs REST escaláveis com NestJS e Node.js
-* Arquitetura organizada (modules, controllers, services)
-* Integração com bancos de dados e serviços externos
-* Código limpo, testável e de fácil manutenção
-* Mentalidade de produto e foco em resultados
-
----
 
 ## 🚀 Projetos Relevantes
 
