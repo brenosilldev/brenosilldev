@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | React | Next.js | Node.js | NestJS | TypeScript | Prisma</b>
+  <b>Desenvolvedor Full Stack TypeScript/JavaScript & Golang</b>
 </p>
 
 <p align="center">
