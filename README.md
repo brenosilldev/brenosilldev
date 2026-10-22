@@ -1,7 +1,7 @@
 # 👨‍💻 Breno Silva
 
 <p align="center">
-  <b>Desenvolvedor Full Stack — TypeScript/JavaScript, Golang & Sistemas Distribuídos</b>
+  <b>Desenvolvedor Full Stack — TypeScript/JavaScript </b>
 </p>
 
 <p align="center">
