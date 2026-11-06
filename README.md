@@ -1,20 +1,19 @@
 # Breno Silva
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack — TypeScript, Node.js e React</strong>
+  <strong>Desenvolvedor Full Stack | TypeScript, Node.js e React</strong>
 </p>
 
 <p align="center">
-  Construo aplicações web, APIs REST e sistemas B2B com foco em regras de negócio,
-  integrações e processamento assíncrono.
+  APIs B2B · Integrações · SaaS · Processamento assíncrono
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brenosilldev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:brenosill@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -22,33 +21,23 @@
 
 ## Atuação
 
-Desenvolvo produtos digitais e sistemas internos utilizando TypeScript, Node.js, React e Next.js.
+Desenvolvo aplicações web, APIs REST e sistemas B2B utilizando TypeScript, Node.js, React e Next.js.
 
-Minha atuação combina desenvolvimento de APIs, implementação de regras de negócio, integração entre serviços e construção de interfaces administrativas. Também trabalho com processamento assíncrono para operações que exigem desacoplamento, controle de falhas e execução em segundo plano.
+Minha atuação envolve implementação de regras de negócio, autenticação, autorização, integrações com serviços externos, arquitetura multiempresa e processamento assíncrono com foco em confiabilidade e manutenção.
 
-No desenvolvimento de sistemas B2B, aplico conceitos como:
-
-- Arquitetura multiempresa;
-- Isolamento de dados;
-- Autenticação e autorização;
-- Integração com serviços externos;
-- Processamento assíncrono;
-- Idempotência;
-- Retry escalonado;
-- Dead Letter Queue;
-- Reconciliação de processos;
-- Separação de responsabilidades.
+Também trabalho na construção de interfaces administrativas e na integração entre front-end, back-end, bancos de dados e serviços de mensageria.
 
 ---
 
 ## Tecnologias
 
-**Linguagens:** TypeScript, JavaScript, PHP, Golang  
-**Back-end:** Node.js, Express, NestJS, APIs REST  
-**Front-end:** React, Next.js, React Query, Tailwind CSS, shadcn/ui  
-**Mensageria:** RabbitMQ, exchanges, workers, TTL, retry e Dead Letter Queue  
-**Bancos de dados:** MySQL, PostgreSQL, MongoDB, Prisma ORM  
-**Infraestrutura e ferramentas:** Docker, Git e GitHub  
+**Back-end:** Node.js, TypeScript, Express, NestJS e APIs REST  
+**Front-end:** React, Next.js, React Query, Tailwind CSS e shadcn/ui  
+**Mensageria:** RabbitMQ, workers, retry, TTL e Dead Letter Queue  
+**Bancos de dados:** MySQL, PostgreSQL, MongoDB e Prisma ORM  
+**Infraestrutura:** Docker, Git e GitHub  
+**Linguagens utilizadas:** TypeScript, JavaScript e PHP  
+**Em aprofundamento:** Golang, arquitetura orientada a eventos e sistemas distribuídos
 
 ---
 
@@ -56,19 +45,20 @@ No desenvolvimento de sistemas B2B, aplico conceitos como:
 
 ### Módulo fiscal de NF-e com RabbitMQ
 
-Desenvolvi a integração de emissão de NF-e ao fluxo de pedidos do PastelTop.
+Atuação no desenvolvimento de uma integração de emissão de NF-e conectada ao fluxo de pedidos do PastelTop.
 
-A solução separa a API HTTP do processamento fiscal, permitindo que a comunicação com a SEFAZ seja executada por workers independentes.
+A solução separa a API HTTP do processamento fiscal, permitindo a execução da comunicação com a SEFAZ por workers independentes.
 
 **Principais implementações:**
 
+- APIs para solicitação e acompanhamento da emissão;
 - Processamento assíncrono com RabbitMQ;
 - Filas específicas para emissão de NF-e e geração de DANFE;
 - Retry escalonado com TTL;
 - Dead Letter Exchange e Dead Letter Queue;
 - Consumers idempotentes;
 - Ack manual e controle de `prefetch`;
-- Diferenciação entre falhas técnicas e falhas de negócio;
+- Tratamento separado para falhas técnicas e de negócio;
 - Reconciliação automática de processos pendentes;
 - Retorno `202 Accepted` para operações em segundo plano.
 
@@ -79,7 +69,7 @@ A solução separa a API HTTP do processamento fiscal, permitindo que a comunica
 
 ### PastelTop — Sistema de gestão para food service
 
-Atuo no desenvolvimento de um sistema B2B para gestão de barracas, produção, pedidos e operações de food service.
+Atuação no desenvolvimento de um sistema B2B para gestão de barracas, produção, pedidos e operações de food service.
 
 **Principais funcionalidades:**
 
@@ -87,11 +77,12 @@ Atuo no desenvolvimento de um sistema B2B para gestão de barracas, produção, 
 - Controle de produção;
 - Gestão de pedidos e produtos;
 - Gestão de usuários, permissões e barracas;
-- Geração de documentos PDF;
 - Arquitetura multiempresa;
 - Isolamento de dados;
 - Permissões granulares;
-- Auditoria de operações.
+- Auditoria de operações;
+- Geração de documentos PDF;
+- Processamento assíncrono de operações críticas.
 
 **Tecnologias:**  
 `Node.js` `TypeScript` `Express` `Prisma` `MySQL` `Next.js` `React` `React Query` `Tailwind CSS` `RabbitMQ`
@@ -100,7 +91,7 @@ Atuo no desenvolvimento de um sistema B2B para gestão de barracas, produção, 
 
 ### Sistema de cardápio online
 
-Desenvolvi uma plataforma de cardápio digital para restaurantes, com recursos de apresentação de produtos, localização e gestão de pedidos.
+Desenvolvimento de uma plataforma de cardápio digital para restaurantes, com gestão de produtos, pedidos e estabelecimentos.
 
 **Principais funcionalidades:**
 
@@ -120,38 +111,39 @@ Desenvolvi uma plataforma de cardápio digital para restaurantes, com recursos d
 
 ### Sistema de venda de ingressos
 
-Participei do desenvolvimento de uma plataforma de venda de ingressos, trabalhando na integração entre front-end, APIs e serviços de pagamento.
+Participação no desenvolvimento de uma plataforma de venda de ingressos, atuando na integração entre interfaces, APIs e serviços de pagamento.
 
 **Principais entregas:**
 
 - Integração com APIs REST desenvolvidas em PHP;
-- Implementação de telas a partir de designs;
-- Integração de pagamentos;
-- Fluxo de confirmação de compra;
-- Liberação e disponibilização de ingressos.
+- Implementação de interfaces a partir de designs;
+- Integração com serviços de pagamento;
+- Fluxo de confirmação de compras;
+- Liberação de ingressos após confirmação do pagamento.
 
 **Tecnologias:**  
 `PHP` `JavaScript` `jQuery` `APIs REST`
 
 ---
 
-## Como trabalho
+## Princípios técnicos
 
-Transformo requisitos de negócio em soluções técnicas organizadas, considerando:
-
-- Clareza na separação de responsabilidades;
-- Manutenibilidade do código;
-- Segurança e controle de acesso;
-- Consistência dos dados;
-- Tratamento de falhas;
-- Desacoplamento entre serviços;
-- Processamento confiável de operações assíncronas;
-- Adequação da arquitetura ao problema real.
+- Separação de responsabilidades;
+- Código organizado e manutenível;
+- APIs claras e consistentes;
+- Tratamento explícito de falhas;
+- Processamento assíncrono confiável;
+- Idempotência em operações críticas;
+- Consistência e isolamento de dados;
+- Controle de acesso baseado em permissões;
+- Arquitetura adequada ao problema de negócio.
 
 ---
 
+## Contato
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/brenosilldev/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/brenosilldev/" target="_blank">LinkedIn</a>
   ·
   <a href="mailto:brenosill@hotmail.com">Email</a>
 </p>
